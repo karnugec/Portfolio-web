@@ -15,8 +15,8 @@ const ProjectCardData = [
         imgsrc: PortfolioImg,
         title: "Portfolio Website",
         text: "It showcase the personal information of me. ",
-        view: "google.com",
-        source: "facebook.com"
+        view: "https://master--candid-twilight-4a32f9.netlify.app/",
+        source: "https://github.com/karnugec/Portfolio-web"
     },
     {
         imgsrc: SortingVisualizerImg,
